@@ -1,0 +1,10 @@
+*.cbproj
+*.dfm
+*.cbproj.*
+*.c
+*.exe
+*.db
+*.dll
+*.lib
+__astcache/
+__history/
